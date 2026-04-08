@@ -16,7 +16,7 @@ Senior Software Engineer focused on full-stack development, distributed systems,
 https://ar-rehman-work.github.io
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/ab-rehman-work/  
+- LinkedIn: https://www.linkedin.com/in/ar-rehman-work/  
 - Email: ar-rehman-work@gmail.com
 
 <!--
