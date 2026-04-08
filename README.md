@@ -1,6 +1,5 @@
 # Hi, I'm Abdul Rehman 👋
 
-## 🚀 About Me
 Senior Software Engineer specializing in full-stack development, distributed systems, and scalable architecture.
 
 - Building scalable and reliable web applications  
