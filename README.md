@@ -13,10 +13,6 @@ Senior Software Engineer specializing in full-stack development, distributed sys
 - Databases: MongoDB, MySQL, PostgreSQL  
 - Tools: Git, Docker, Jenkins, Notion, Slack  
 
-## 📌 What I'm Working On
-- Designing scalable system architectures  
-- Improving application performance and reliability  
-
 ## 🌐 Portfolio
 https://ar-rehman-work.github.io
 
