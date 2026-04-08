@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Abdul Rehman 👋
 
-<!--
-**ar-rehman-work/ar-rehman-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Senior Software Engineer specializing in full-stack development, distributed systems, and scalable architecture.
 
-Here are some ideas to get you started:
+- Building scalable and reliable web applications  
+- Focused on clean architecture and maintainable code  
+- Passionate about solving complex problems and continuous improvement  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React, Next.js, Tailwind CSS, SCSS  
+- Backend: Ruby on Rails, Ruby, Python, Node.js  
+- Databases: MongoDB, MySQL, PostgreSQL  
+- Tools: Git, Docker, Jenkins, Notion, Slack  
+
+## 📌 What I'm Working On
+- Designing scalable system architectures  
+- Improving application performance and reliability  
+
+## 🌐 Portfolio
+https://ar-rehman-work.github.io
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ab-rehman-work/  
+- Email: ar-rehman-work@gmail.com
