@@ -17,7 +17,7 @@ https://ar-rehman-work.github.io
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/ar-rehman-work/  
-- Email: ar-rehman-work@gmail.com
+- Email: ar.rehman.work@gmail.com
 
 ## Certifications
 - Microsoft Azure Data Science Associate (DP-100) — Corvit  
